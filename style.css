@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.parent {
+  width: 40vw;
+  /* margin: auto; */
+  position: relative;
+  left: 30vw;
+}
+
+img {
+  width: 100%;
+  border: whitesmoke solid 4px;
+}
+
+div {
+  border-radius: 20px;
+  background: rgba(255, 253, 253, 0.863);
+  font-size: 1.2rem;
+  padding: 5px;
+  border: yellowgreen solid 3px;
+ 
+}
+
+#rick {
+  width: 20%;
+  position: absolute;
+  right: -3rem;
+  top: 2rem;
+  margin: 5px;
+}
+
+.sanchez {
+  width: 20%;
+  position: absolute;
+  right: -3rem;
+  top: 5rem;
+  margin: 5px;
+}
